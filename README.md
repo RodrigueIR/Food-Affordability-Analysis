@@ -1,4 +1,4 @@
-# Food Affordability & Dietary Habits Analysis
+# Food Affordability and Dietary Habits Analysis
 ## Overview
 This project explores how food prices, income levels, and eating habits connect in our communities. We analyzed three key datasets to understand:
 - How much different foods cost across regions
