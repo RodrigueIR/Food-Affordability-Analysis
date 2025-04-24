@@ -12,7 +12,7 @@ We worked with three main datasets:
 ### 2. Dietary Habits 🥗
 - Survey of 78 people about their eating patterns
 - Includes age, gender, diet types, and meal frequencies
-### 3. Income & Spending 💰
+### 3. Income and Spending 💰
 - Information from 50 households about:
 - Monthly income and expenses
 - Family size and education levels
