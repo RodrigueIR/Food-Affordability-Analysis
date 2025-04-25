@@ -14,8 +14,8 @@ We worked with three main datasets:
 - Includes age, gender, diet types, and meal frequencies
 ### 3. Income and Spending 💰
 - Information from 50 households about:
-- Monthly income and expenses
-- Family size and education levels
+  * Monthly income and expenses
+  * Family size and education levels
 ## 🔍Key Questions Explored
 ### 1. How do food prices vary?
 - Found that healthy foods (fruits, vegetables) tend to cost more than processed options
